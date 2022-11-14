@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aweleczka&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=aweleczka&hide=contribs,prs)
 
-<a href="https://mastodon.social/@aweleczka" rel="me" target="_blank">
+<a href="https://mastodon.social/@aweleczka" rel="nofollow me" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aweleczka/" target="_blank">
